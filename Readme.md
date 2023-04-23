@@ -50,6 +50,9 @@ Precision:	0.7173713235294118
 Recall:	0.4404627539503386
 F1 Score:	0.5458041958041958
 ```
+##### Classification Report
+![image](https://user-images.githubusercontent.com/70325804/233851754-66169317-e42f-45fe-828a-8d98f379dafe.png)
+
 
 ```
 As our data set is imbalanced i.e,
