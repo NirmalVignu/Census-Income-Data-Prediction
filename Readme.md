@@ -73,4 +73,5 @@ ROC AUC SCORE:	0.6925511177259119
 ```
 
 
+![image](https://user-images.githubusercontent.com/70325804/233851691-3b95abd3-a67c-4bb6-9280-9410637eb347.png)
 
