@@ -1,4 +1,4 @@
-## End to End ML Project on Census Income Data Prediction(Classification Probelm)
+## End to End ML Project on Census Income Data Prediction(Classification Problem)
 
 ### created an environment
 ```
